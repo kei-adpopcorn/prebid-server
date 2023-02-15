@@ -22,7 +22,7 @@ require (
 	github.com/mitchellh/copystructure v1.1.2
 	github.com/mxmCherry/openrtb/v15 v15.0.0
 	github.com/prebid/go-gdpr v1.10.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/rcrowley/go-metrics v0.0.0-20180503174638-e2704e165165
 	github.com/rs/cors v1.5.0
