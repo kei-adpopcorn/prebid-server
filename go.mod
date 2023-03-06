@@ -12,7 +12,7 @@ require (
 	github.com/chasex/glog v0.0.0-20160217080310-c62392af379c
 	github.com/coocood/freecache v1.0.1
 	github.com/docker/go-units v0.4.0
-	github.com/evanphx/json-patch v0.0.0-20180720181644-f195058310bd
+	github.com/evanphx/json-patch v0.5.2
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/influxdata/influxdb v1.6.1
