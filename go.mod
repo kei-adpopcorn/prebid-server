@@ -15,7 +15,7 @@ require (
 	github.com/evanphx/json-patch v0.0.0-20180720181644-f195058310bd
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/influxdata/influxdb v1.6.1
+	github.com/influxdata/influxdb v1.7.6
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/lib/pq v1.0.0
 	github.com/mattn/go-colorable v0.1.2 // indirect
