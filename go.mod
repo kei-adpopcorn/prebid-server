@@ -37,7 +37,7 @@ require (
 	github.com/yudai/gojsondiff v0.0.0-20170107030110-7b1b7adf999d
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yudai/pp v2.0.1+incompatible // indirect
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
-	golang.org/x/text v0.3.6
+	golang.org/x/net v0.23.0
+	golang.org/x/text v0.14.0
 	gopkg.in/yaml.v2 v2.4.0
 )
